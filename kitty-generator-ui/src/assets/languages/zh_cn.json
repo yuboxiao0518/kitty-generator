@@ -33,6 +33,7 @@
     "navMenu": {
         "singleTable": "单表查询",
         "masterTable": "主从表格",
+        "view": "视图",
         "userMng": "User Manage",
         "deptMng": "Dept Manage",
         "roleMng": "Role Manage",

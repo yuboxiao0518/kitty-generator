@@ -16,6 +16,10 @@
         <i class="el-icon-info"></i>
         <span slot="title">{{$t("navMenu.masterTable")}}</span>
       </el-menu-item>
+      <el-menu-item index="3" @click="$router.push('view')">
+        <i class="el-icon-service"></i>
+        <span slot="title">{{$t("navMenu.view")}}</span>
+      </el-menu-item>
     </el-menu>
 	</div>
 </template>
